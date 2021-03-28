@@ -32,7 +32,7 @@ In order to verify and validate a successful upload, display the database tables
 ___
 ## **ANALYSIS**
 ### ***Total Number of Recorded Crimes***
-![MySQL Query](1.jpg "Total Number of Recorded Crimes in Chicago")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/1.JPG "Total Number of Recorded Crimes in Chicago")
 ### ***Top Rows from the CRIME Table***
 ![MySQL Query](2.jpg "First 10 Rows from CRIME")
 ### ***Crimes Involving an Arrest***
