@@ -34,23 +34,23 @@ ___
 ### ***Total Number of Recorded Crimes***
 ![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/1.JPG "Total Number of Recorded Crimes in Chicago")
 ### ***Top Rows from the CRIME Table***
-![MySQL Query](2.jpg "First 10 Rows from CRIME")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/1.JPG "First 10 Rows from CRIME")
 ### ***Crimes Involving an Arrest***
-![MySQL Query](3.jpg "CRIMES = ARREST")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/3.JPG "CRIMES = ARREST")
 ### ***Crimes at a Gas Station***
-![MySQL Query](4.jpg "Crimes at a Gas Station")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/4.JPG "Crimes at a Gas Station")
 ### ***Community Areas***
-![MySQL Query](5.jpg "Community Areas")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/5.JPG "Community Areas")
 ### ***Schools that are "Healthy-School" Certified***
-![MySQL Query](6.jpg "Schools that are "Healthy-School" Certified")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/6.JPG "Schools that are "Healthy-School" Certified")
 ### ***Average School Safety Score***
-![MySQL Query](7.jpg "Average School Safety Score")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/7.JPG "Average School Safety Score")
 ### ***Top Five Community Areas***
-![MySQL Query](8.jpg "Top Five Community Areas")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/8.JPG "Top Five Community Areas")
 ### ***Community Area With the Least Value of Safety Score of Schools***
-![MySQL Query](9.jpg "Community Area With the Least Value of Safety Score of Schools")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/9.JPG "Community Area With the Least Value of Safety Score of Schools")
 ### ***Per-Capita Income Using Sub-Queries***
-![MySQL Query](10.jpg "Per-Capita Income Using Sub-Queries")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/10.JPG "Per-Capita Income Using Sub-Queries")
 ___
 ## **SUMMARY AND REFLECTION**
 This project tests some of the basic concepts of MySQL and integrates the engine startup of MySQL using an IDE. It may not be considered as a proper data analysis capstone project. However, it may, nevertheless, be considered adequate as a learninng resource for those interested in exploring further the wide variety of advanced topics in SQL.
