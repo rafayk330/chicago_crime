@@ -42,7 +42,7 @@ ___
 ### ***Community Areas***
 ![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/5.JPG "Community Areas")
 ### ***Schools that are Healthy-School Certified***
-![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/6.JPG "Schools that are "Healthy-School" Certified")
+![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/6.JPG "Schools that are Healthy-School Certified")
 ### ***Average School Safety Score***
 ![MySQL Query](https://github.com/rafayk330/chicago_crime/blob/main/7.JPG "Average School Safety Score")
 ### ***Top Five Community Areas***
