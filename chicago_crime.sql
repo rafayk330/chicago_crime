@@ -1,0 +1,1 @@
+CREATE DATABASE chicago_crime
